@@ -294,5 +294,4 @@ end
 #   cart
 # end
 
-
 #apply_coupons(items, coupons)
